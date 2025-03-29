@@ -23,7 +23,7 @@ target_link_libraries(imgui_node_editor PUBLIC
     MagnumIntegration::ImGui
 )
 
-source_group(TREE ${IMGUI_NODE_EDITOR_ROOT_DIR} FILES ${_imgui_node_editor_Sources})
+# source_group(TREE ${IMGUI_NODE_EDITOR_ROOT_DIR} FILES ${_imgui_node_editor_Sources})
 
-include(${CMAKE_ROOT}/Modules/FindPackageHandleStandardArgs.cmake)
+# include(${CMAKE_ROOT}/Modules/FindPackageHandleStandardArgs.cmake)
 

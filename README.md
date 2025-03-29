@@ -1,0 +1,1 @@
+Fork of thedmd/imgui-node-editor set up to be added as a submodule in a Magnum engine project.
